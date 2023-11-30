@@ -1,4 +1,6 @@
-# CSE4077_Recommender_Systems_J_component
+# Vacation Recommendation System Using New York Times Articles
 
-Hello <br>
-This project is submission for project component of CSE4077 Recommender Systems by Gaurav Trivedi - 19MIA1077.
+This repository holds practical proof for research paper "Vacation Recommendation System Using New York Times Articles".
+
+Thank you
+
